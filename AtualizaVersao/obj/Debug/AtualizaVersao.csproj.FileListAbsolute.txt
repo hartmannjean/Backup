@@ -1,0 +1,9 @@
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\bin\Debug\AtualizaVersao.exe.config
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\bin\Debug\AtualizaVersao.exe
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\bin\Debug\AtualizaVersao.pdb
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\obj\Debug\AtualizaVersao.csprojAssemblyReference.cache
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\obj\Debug\AtualizaVersao.frmAtualizaVersao.resources
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\obj\Debug\AtualizaVersao.Properties.Resources.resources
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\obj\Debug\AtualizaVersao.csproj.GenerateResource.cache
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\obj\Debug\AtualizaVersao.exe
+C:\Users\Delta\source\repos\AtualizaVersao\AtualizaVersao\obj\Debug\AtualizaVersao.pdb
